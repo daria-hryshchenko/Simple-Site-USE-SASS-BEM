@@ -1,0 +1,15 @@
+// utils styles
+
+@import "./utils/colors";
+@import "./utils/fonts";
+
+// base styles
+
+@import "./base/reset";
+@import "./base/container";
+
+// components style
+
+@import "./components/global/logo";
+@import "./components/section/header";
+@import  "./components/global/current";
