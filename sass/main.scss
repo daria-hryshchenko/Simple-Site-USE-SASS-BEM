@@ -8,8 +8,13 @@
 @import "./base/reset";
 @import "./base/container";
 
-// components style
+
+// COMPONENTS 
+// Global Elements
 
 @import "./components/global/logo";
 @import "./components/section/header";
 @import  "./components/global/current";
+
+@import "./components/global/social";
+@import "./components/section/footer"
