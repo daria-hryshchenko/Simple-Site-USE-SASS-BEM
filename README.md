@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
-## Homework :wrench:	
+## Important Points :wrench:	
 
 
 :point_right: Improve My HTML & CSS Skills
